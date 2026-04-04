@@ -8,5 +8,8 @@ Problems are organized topic-wise for clarity and revision.
   - Linear Search
   - Binary Search
   - Reverse Array
+  - strings
+  - sorting
+  - 2d array
 
 More topics will be added regularly.
